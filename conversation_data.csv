@@ -1,0 +1,7 @@
+user_input,response
+"Hi there! How can I help you?","Hello! How can I assist you today?"
+"What's the weather like tomorrow?","The forecast for tomorrow is partly cloudy."
+"Can you recommend a good restaurant nearby?","Sure! There's a nice Italian place called 'Pasta Paradise' nearby."
+"What was the last medication prescribed to this patient?", "Last medication prescribed for Hypertension were, Angiotensin-Converting Enzyme (ACE) Inhibitors, 20 pills for 10 days. Diuretics 8mg. 20 pills for 10 days."
+"Show me the observation from last consultation", "General Appearance: The patient appears well and in no acute distress. Cardiovascular Examination: Regular rhythm with no murmurs, rubs, or gallops. Peripheral pulses are intact."
+, "There were lab tests requested as well, would you like to see them?"
